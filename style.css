@@ -92,28 +92,35 @@ a:hover {
     width: 500px;
 }
 
+.proj-name {
+    font-family: helvetica;
+    font-weight: bold;
+}
+
 .proj-desc {
     font-family: Arial;
-    padding-top: 30px;
+    padding-top: 10px;
     text-align: left;
+    margin-right:20px;
 }
 
 .info-displayed {
     font-family: Arial;
-    padding-top: 20px;
+    padding-top: 5px;
     text-align: left;
+    margin-right:20px;
 }
 
 .proj-desc-opposite {
     font-family: Arial;
-    padding-top: 30px;
+    padding-top: 10px;
     text-align: left;
-    margin-left: 20px;
+    margin-left:20px;
 }
 
 .info-displayed-opposite {
     font-family: Arial;
-    padding-top: 20px;
+    padding-top: 5px;
     text-align: left;
     margin-left: 20px;
 }
