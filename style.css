@@ -1,0 +1,71 @@
+.nav-link {
+    float: right;
+}
+
+.navImg {
+    height: 30px;
+    padding-right:5px;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align:center;
+    color:rgb(219, 219, 219);
+    background-color: rgb(78, 18, 18);
+}
+
+a {
+    color:inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#right-info {
+    text-align:center;
+    float:left;
+}
+
+#left-info {
+    text-align:center;
+    float:left;
+}
+
+.close-modal {
+    visibility: hidden;
+}
+
+.modal-style {
+    color:rgb(219, 219, 219);
+    text-decoration: none;
+}
+
+#modal-close {
+    color:black;
+}
+
+#SourceLogo {
+    background-color: darkgray;
+    border-color: black;
+    width: auto;
+    height: auto;
+    text-align: left;
+    color: black;
+    font-size:20px;
+}
+
+.fillerText {
+    height:300px;
+    color:black;
+
+}
+
+.midPage {
+    text-align: center;
+    margin-top: 100px;
+}
