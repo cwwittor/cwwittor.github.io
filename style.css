@@ -69,3 +69,51 @@ a:hover {
     text-align: center;
     margin-top: 100px;
 }
+
+#portfolio-hub {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.portfolio-set {
+    display: inline-block;
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+
+.port-info {
+    float: left;
+    width:500px;
+}
+
+.port-gif {
+    float: left;
+    width: 500px;
+}
+
+.proj-desc {
+    font-family: Arial;
+    padding-top: 30px;
+    text-align: left;
+}
+
+.info-displayed {
+    font-family: Arial;
+    padding-top: 20px;
+    text-align: left;
+}
+
+.proj-desc-opposite {
+    font-family: Arial;
+    padding-top: 30px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.info-displayed-opposite {
+    font-family: Arial;
+    padding-top: 20px;
+    text-align: left;
+    margin-left: 20px;
+}
