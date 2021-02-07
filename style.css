@@ -79,17 +79,24 @@ a:hover {
     display: inline-block;
     text-align: center;
     height: auto;
-    width: auto;
+    width: 1000px;
+    background-color: rgb(253, 222, 222);
+    
+
 }
 
 .port-info {
+    margin-top:5px;
     float: left;
-    width:500px;
+    width: 50%;
+    height: auto;
+    max-width: 100%;
 }
 
 .port-gif {
     float: left;
-    width: 500px;
+    width: 50%;
+    max-width: 100%;
 }
 
 .proj-name {
@@ -101,6 +108,7 @@ a:hover {
     font-family: Arial;
     padding-top: 10px;
     text-align: left;
+    margin-left: 10px;
     margin-right:20px;
 }
 
@@ -108,6 +116,7 @@ a:hover {
     font-family: Arial;
     padding-top: 5px;
     text-align: left;
+    margin-left: 10px;
     margin-right:20px;
 }
 
@@ -116,6 +125,7 @@ a:hover {
     padding-top: 10px;
     text-align: left;
     margin-left:20px;
+    margin-right: 10px;
 }
 
 .info-displayed-opposite {
@@ -123,4 +133,44 @@ a:hover {
     padding-top: 5px;
     text-align: left;
     margin-left: 20px;
+    margin-right: 10px;
+}
+
+.github-logo {
+    height: 40px;
+}
+
+.title-of-assignment {
+    text-align: center;
+}
+
+#portfolio-hub hr {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding:1px;
+    background-color:rgb(102, 0, 0);
+    border:none;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.proj-img {
+    max-width: 100%;
+}
+
+body {
+    background-image: url("assets/BackgroundPattern.png");
+    background-repeat: repeat;
+}
+
+#header-Of-Port {
+    margin-bottom: 10px;
+}
+
+#header-Of-Port h1 {
+    font-size: 72px;
+    font-weight: bold;
+    font-family: Helvetica;
+    
 }
