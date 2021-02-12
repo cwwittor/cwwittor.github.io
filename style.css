@@ -7,15 +7,6 @@
     padding-right:5px;
 }
 
-footer {
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-    text-align:center;
-    color:rgb(219, 219, 219);
-    background-color: rgb(78, 18, 18);
-}
-
 a {
     color:inherit;
     text-decoration: none;
@@ -79,24 +70,20 @@ a:hover {
     display: inline-block;
     text-align: center;
     height: auto;
-    width: 1000px;
-    background-color: rgb(253, 222, 222);
-    
-
+    width: auto;
+    max-width: 1000px;    
 }
 
 .port-info {
-    margin-top:5px;
     float: left;
-    width: 50%;
-    height: auto;
-    max-width: 100%;
+    width: 500px;
+    height: 281px;
+    background-color: rgb(253, 222, 222);
 }
 
 .port-gif {
     float: left;
-    width: 50%;
-    max-width: 100%;
+    width: auto;
 }
 
 .proj-name {
@@ -147,25 +134,30 @@ a:hover {
 #portfolio-hub hr {
     margin-top: 5px;
     margin-bottom: 10px;
-    padding:1px;
+    padding-top:1px;
+    padding-bottom:1px;
     background-color:rgb(102, 0, 0);
     border:none;
-    width: 1000px;
+    width:100%;
+    min-width: 500px;
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
 }
 
-.proj-img {
-    max-width: 100%;
-}
 
-body {
+html, body {
+    margin:0;
+    padding:0;
+    position: relative;
+    height: max-content;
     background-image: url("assets/BackgroundPattern.png");
     background-repeat: repeat;
 }
 
 #header-Of-Port {
     margin-bottom: 10px;
+    text-align: center;
 }
 
 #header-Of-Port h1 {
@@ -173,4 +165,30 @@ body {
     font-weight: bold;
     font-family: Helvetica;
     
+}
+
+.footerscroll {
+    margin-top: 50px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color:rgb(219, 219, 219);
+    background-image: url(assets/FooterGradient.png);
+    background-position-x: repeat;
+}
+
+.middlefooter {
+    display: inline-block;
+    text-align: center;
+}
+
+.footerfix {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color:rgb(219, 219, 219);
+    background-image: url(assets/FooterGradient.png);
+    background-position-x: repeat;
 }
