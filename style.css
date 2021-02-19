@@ -56,10 +56,7 @@ a:hover {
 
 }
 
-.midPage {
-    text-align: center;
-    margin-top: 100px;
-}
+
 
 #portfolio-hub {
     padding-top: 100px;
@@ -145,8 +142,19 @@ a:hover {
     margin-right: auto;
 }
 
+.frontpage {
+    margin:0;
+    padding:0;
 
-html, body {
+    background: url("assets/Main-Background.png") fixed 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+
+.frilly {
     margin:0;
     padding:0;
     position: relative;
@@ -216,4 +224,53 @@ html, body {
     display: block;
     float:left;
     text-align: left;
+}
+
+#front-page-info {
+    margin-top: 220px;
+}
+
+.titleFront {
+    float:left;
+    text-align: center;
+    font-size: 250%;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+.nameFront {
+    float:left;
+    text-align: center;
+    font-weight: bold;
+    font-size: 300%;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+.icons-main {
+    margin-top: 10px;
+    display:inline-block;
+    text-align: center;
+}
+
+.ind-icon {
+    display: inline-block;
+
+    margin-left:2px;
+    margin-right:2px;
+}
+
+.frontPageTitle {
+    margin-left:40%;
+}
+
+.aboutMePage {
+    position:fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.aboutImage {
+    width: 18vh;
+    height: auto;
 }
