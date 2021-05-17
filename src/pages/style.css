@@ -146,7 +146,7 @@ a:hover {
     margin:0;
     padding:0;
 
-    background: url("assets/Main-Background.png") fixed 50%;
+    background: url("../assets/Main-Background.png") fixed 50%;
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -160,7 +160,7 @@ a:hover {
     width: 100%;
     height: 100%;
     position: relative;
-    background-image: url("assets/BackgroundPattern.png");
+    background-image: url("../assets/BackgroundPattern.png");
     background-repeat: repeat;
 }
 
@@ -169,7 +169,7 @@ a:hover {
     padding:0;
     position: relative;
     height: max-content;
-    background-image: url("assets/BackgroundPattern.png");
+    background-image: url("../assets/BackgroundPattern.png");
     background-repeat: repeat;
 }
 
@@ -192,7 +192,7 @@ a:hover {
     width: 100%;
     text-align: center;
     color:rgb(219, 219, 219);
-    background-image: url(assets/FooterGradient.png);
+    background-image: url(../assets/FooterGradient.png);
     background-position-x: repeat;
 }
 
@@ -207,7 +207,7 @@ a:hover {
     width: 100%;
     text-align: center;
     color:rgb(219, 219, 219);
-    background-image: url(assets/FooterGradient.png);
+    background-image: url(../assets/FooterGradient.png);
     background-position-x: repeat;
 }
 
