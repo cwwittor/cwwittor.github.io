@@ -29,8 +29,8 @@
   The license(s) used for this are the following: MIT
 
   ## Screenshots
-  ![input]()
-  ![finalProduct]()
+   <img src="src/assets/Main-Page.PNG" width="700">
+   <img src="src/assets/Portfolio-Page.PNG" width="700">
 
   ## Contact-Info
   Email: cwwittor@ncsu.edu
