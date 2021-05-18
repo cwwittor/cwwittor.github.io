@@ -30,7 +30,7 @@
 
   ## Screenshots
    <img src="src/assets/Main-Page.PNG" width="700">
-   <img src="src/assets/Portfolio-Page.PNG" width="700">
+   <img src="src/assets/Portfolio-Page.png" width="700">
 
   ## Contact-Info
   Email: cwwittor@ncsu.edu
