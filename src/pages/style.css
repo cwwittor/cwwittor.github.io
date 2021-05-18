@@ -191,7 +191,7 @@ a:hover {
 }
 
 .footerscroll {
-    margin-top: 50px;
+    
     position: relative;
     bottom: 0;
     width: 100%;
@@ -225,8 +225,10 @@ a:hover {
     margin:0 auto;
     height: 500px;
     width:400px;
-    margin-top:80px;
+    margin-top:60px;
 }
+
+
 
 .header-contact {
     display: inline-block;
