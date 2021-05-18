@@ -7,7 +7,7 @@ import "./style.css";
 
 function Index() {
     return (
-        <body class="frontpage">
+        <section class="frontpage">
 
             <section class = "container" id="front-page-info">
                     <div class= "row">
@@ -33,7 +33,7 @@ function Index() {
                     
                     
             </section>
-        </body>
+        </section>
     );
 }
 

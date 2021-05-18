@@ -142,16 +142,21 @@ a:hover {
     margin-right: auto;
 }
 
+#root{
+    height: 300 px;
+}
+
+.fullbody {
+    height: 100%;
+    display: block;
+}
+
 .frontpage {
     margin:0;
     padding:0;
-
-    background: url("../assets/Main-Background.png") fixed 50%;
+    background: url(../assets/NewMain-Background2.png) fixed 50%;
     background-repeat: no-repeat;
     background-size: cover;
-
-
-
 }
 
 .aboutMeBack {
@@ -237,11 +242,13 @@ a:hover {
 }
 
 #front-page-info {
-    margin-top: 220px;
+    margin-top: 380px;
+
 }
 
 .titleFront {
     float:left;
+    color: black;
     text-align: center;
     font-size: 250%;
     margin-bottom: 0;
@@ -250,6 +257,7 @@ a:hover {
 
 .nameFront {
     float:left;
+    color: black;
     text-align: center;
     font-weight: bold;
     font-size: 300%;
@@ -271,7 +279,7 @@ a:hover {
 }
 
 .frontPageTitle {
-    margin-left:40%;
+    margin-left:20%;
 }
 
 .aboutMePage {

@@ -1,4 +1,4 @@
-import headshot from "../assets/PhotoOfMyself.png";
+import headshot from "../assets/Photograph.jpg";
 import mainFlip from "../assets/MainPage.png";
 import { Link } from "react-router-dom";
 import "./style.css";
