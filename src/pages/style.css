@@ -154,7 +154,7 @@ a:hover {
 .frontpage {
     margin:0;
     padding:0;
-    background: url(../assets/NewMain-Background2.png) fixed 50%;
+    background: url(../assets/NewMain-Backround3.jpg) fixed 50%;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -172,6 +172,15 @@ a:hover {
 .frilly {
     margin:0;
     padding:0;
+    position: relative;
+    height: max-content;
+    background-image: url("../assets/BackgroundPattern.png");
+    background-repeat: repeat;
+}
+
+.frillyAboutMe {
+    margin:0;
+    padding:9%;
     position: relative;
     height: max-content;
     background-image: url("../assets/BackgroundPattern.png");
@@ -249,8 +258,8 @@ a:hover {
 }
 
 .titleFront {
-    float:left;
-    color: black;
+    float:center;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-size: 250%;
     margin-bottom: 0;
@@ -258,8 +267,8 @@ a:hover {
 }
 
 .nameFront {
-    float:left;
-    color: black;
+    float:center;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-weight: bold;
     font-size: 300%;
@@ -276,7 +285,7 @@ a:hover {
 .ind-icon {
     display: inline-block;
 
-    margin-left:2px;
+    margin-left:6px;
     margin-right:2px;
 }
 
@@ -317,7 +326,7 @@ a:hover {
     margin-bottom: 5px;
     width: 100%;
     border: black 4px solid;
-    background-color: rgb(206, 255, 149);
+    background-color: rgb(192, 251, 192);
     text-align: center;
 }
 
@@ -332,10 +341,15 @@ a:hover {
 }
 
 .selfImage {
-    max-width: 100%;
+    max-width: 68%;
     height:auto;
 }
 
 html {
     height: 100%;
+}
+
+#infoReach {
+    margin-top: 0px;
+    margin-bottom: 10px;
 }
