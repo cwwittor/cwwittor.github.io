@@ -5,7 +5,7 @@ import aboutFlip from "../assets/AboutMeTemp.png";
 import { Link } from "react-router-dom";
 import "./style.css";
 
-/the main page
+//the main page
 function Index() {
     return (
         <section class="frontpage">
