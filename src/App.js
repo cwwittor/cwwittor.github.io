@@ -6,6 +6,7 @@ import Contact from "./pages/contact";
 import Portfolio from "./pages/portfolio";
 import Home from "./pages/index"
 import NavBar from "./components/navBar";
+import Footer from "./components/footer";
 import { Route, Switch, HashRouter } from "react-router-dom"
 import "./App.css"
 
@@ -18,15 +19,18 @@ class App extends Component {
           <Switch>
             <Route path='/portfolio'>
               <Portfolio />
+              <Footer />
             </Route>
             <Route exact path={'/'}>
               <Home />
             </Route>
-            <Route path={'/contact'}>
+            <Route path='/contact'>
               <Contact />
+              <Footer />
             </Route>
             <Route path='/aboutme'>
               <AboutMe />
+              <Footer />
             </Route>
           </Switch>
         </div>

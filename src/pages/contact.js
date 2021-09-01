@@ -3,7 +3,7 @@ import "./style.css";
 
 function Contact() {
     return (
-        <body class="frilly">
+        <section class="frillyAboutMe">
             <section id="contact-box">
                 <h2 class="header-contact">Contact Me:</h2>
                 <form action="https://formspree.io/f/xgepbzvl" method="POST">
@@ -22,7 +22,7 @@ function Contact() {
                     <div class= "content-box">
                         <label>Comments:</label>
                         <br/>
-                        <textarea name="comments" rows="12" cols="35">Any comments you'd like to make?</textarea>
+                        <textarea name="comments" rows="12" cols="35" placeholder="Any comments you'd like to make?"></textarea>
                     </div>
                     <br/>
                     <input type="submit" name="submit" value="Send"/>
@@ -30,7 +30,7 @@ function Contact() {
 
                 
             </section>
-        </body>
+        </section>
     );
 }
 
