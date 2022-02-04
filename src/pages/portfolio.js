@@ -2,7 +2,7 @@ import burgerGif from "../assets/Burger.gif";
 import webDevGame from "../assets/WebDev.gif";
 import mediaMunch from "../assets/MediaMunch.gif";
 import weatherDashboardGif from "../assets/weather-dashboard.gif";
-import project1Gif from "../assets/BlackJack.gif";
+import project1Gif from '../assets/BlackJack.gif';
 import githubLogo from "../assets/GithubLogo.png";
 import "./style.css"; 
 

@@ -154,7 +154,7 @@ a:hover {
 .frontpage {
     margin:0;
     padding:0;
-    background: url(../assets/NewMain-Backround3.jpg) fixed 50%;
+    background: url('../assets/NewMain-Backround3.jpg') fixed 50%;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -206,7 +206,7 @@ a:hover {
     width: 100%;
     text-align: center;
     color:rgb(219, 219, 219);
-    background-image: url(../assets/FooterGradient.png);
+    background-image: url('../assets/FooterGradient.png');
     background-position-x: repeat;
 }
 
@@ -221,7 +221,7 @@ a:hover {
     width: 100%;
     text-align: center;
     color:rgb(219, 219, 219);
-    background-image: url(../assets/FooterGradient.png);
+    background-image: url('../assets/FooterGradient.png');
     background-position-x: repeat;
 }
 

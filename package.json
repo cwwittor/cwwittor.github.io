@@ -2,7 +2,7 @@
   "name": "cwwittor.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cwwittor.github.io/cwwittor.github.io",
+  "homepage": "https://cwwittor.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
