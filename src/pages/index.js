@@ -1,4 +1,4 @@
-import linkedIn from "../assets/LinkedIn.png";
+import linkedIn from "./src/assets/LinkedIn.png";
 import github from "../assets/GithubLogoFilled.png";
 import mail from "../assets/free-mail-icon-142-thumb.png";
 import aboutFlip from "../assets/AboutMeTemp.png";
