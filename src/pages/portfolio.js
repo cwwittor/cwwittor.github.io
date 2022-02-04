@@ -21,7 +21,7 @@ function Portfolio() {
                         <p class="info-displayed">For this project, I worked in the backend and had written a large percentage of the JavaScript. From this, I displayed knowledge in being able to use 2D arrays, fix bugs, utilize loops to assign/get values, utilize multiple APIs, interact with front-end elements, and communicate with both back-end and front-end developers.</p>
                     </div>
                     <div class="port-gif">
-                        <a href="https://cparros.github.io/project1/"><img src={project1Gif} alt="gif of project 1" class="proj-img"/></a>
+                        <a href="https://cparros.github.io/project1/"><img src={project1Gif} alt="gif of project 1"/></a>
                     </div>
                 </div>
                 <hr/>
