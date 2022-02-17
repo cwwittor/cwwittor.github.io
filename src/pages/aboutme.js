@@ -27,7 +27,8 @@ function AboutMe() {
                                 - Adobe Photoshop, Adobe Premiere <br></br>
                                 - Communication, Teamwork, Dependable, Critical Thinker <br></br>
                                 - Microsoft Excel, Powerpoint, Word <br></br>
-                                - Some Python Experience
+                                - Some Python Experience <br></br>
+                                - AWS Solutions(EC2, EBS, S3, IAM, WAF, DynamoDB, Organizations, ECS, Redshift, EMR, Athena, VPC, RDS, AMI, etc)
                             </p>
                         </div>
                         <div class= "aboutMeDetails">
@@ -40,6 +41,7 @@ function AboutMe() {
                                 - Orienteering <br></br>
                                 - Video Games <br></br>
                                 - Board Games <br></br>
+                                - Mahjong <br></br>
                                 - Anime, Manga <br></br>
                                 - Watching Twitch.tv/Youtube <br></br>
                                 - Watching NBA/NFL/NCAA/EPL/Esports matches <br></br>

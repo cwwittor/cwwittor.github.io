@@ -14,7 +14,7 @@ function Index() {
                     <div class= "row">
                         <div class = "frontPageTitle col-5">
                             <h2 class = "nameFront">Christian Wittorp</h2>
-                            <h3 class = "titleFront">Backend Developer</h3>
+                            <h3 class = "titleFront">Full Stack Developer</h3>
                                 <span class= "icons-main">
                                     <div class= "ind-icon">
                                         <a href="https://www.linkedin.com/in/christian-wittorp-2341b0142/"><img src={linkedIn} alt="linkedIn logo" class="github-logo"/></a>
