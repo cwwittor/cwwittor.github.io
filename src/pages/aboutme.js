@@ -42,7 +42,7 @@ function AboutMe() {
                                 - Video Games <br></br>
                                 - Board Games <br></br>
                                 - Mahjong <br></br>
-                                - Anime, Manga <br></br>
+                                - Anime, Manga, Comics <br></br>
                                 - Watching Twitch.tv/Youtube <br></br>
                                 - Watching NBA/NFL/NCAA/EPL/Esports matches <br></br>
                             </p>
